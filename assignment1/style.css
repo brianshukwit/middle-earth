@@ -1,0 +1,40 @@
+
+.main{padding-top:3%; padding-left: 3%; padding-right: 3%;}
+.row{padding: 1% 0;}
+.green{background-color:#c0c9d1}
+
+body{
+	font-family: 'Abel',sans-serif;
+	font-size: 1.5em;
+	color: #000;
+}
+h2{
+	font-family: 'Satisfy', cursive;
+	font-size: 3em;
+	margin: 0.67em;
+}
+
+
+p{
+	font-family: 'Droid Sans'
+}
+
+header.main_nav{
+	padding: 1% 0;
+	display: block;
+}
+
+ul.navigation {
+	color: #090302;
+	list-style-type: none;
+	text-align: center;
+	border: 1px solid #090302
+
+}
+
+ul.navigation li.home a:hover{color: #D9B23D}
+ul.navigation li.page a:hover{color: #D9B23D}
+ul.navigation li.news a:hover{color: #D9B23D}
+ul.navigation li.contact a:hover{color: #D9B23D}
+
+
